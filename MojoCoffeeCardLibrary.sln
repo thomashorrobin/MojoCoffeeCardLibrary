@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MojoCoffeeCardLibrary", "MojoCoffeeCardLibrary\MojoCoffeeCardLibrary.csproj", "{96BD817B-7B80-461A-95CD-907D899764A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MojoCoffeeCardLibrary.Tests", "MojoCoffeeCardLibrary.Tests\MojoCoffeeCardLibrary.Tests.csproj", "{1EB3BDA4-DD75-4388-B4EC-13303922A9BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BD817B-7B80-461A-95CD-907D899764A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BD817B-7B80-461A-95CD-907D899764A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BD817B-7B80-461A-95CD-907D899764A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BD817B-7B80-461A-95CD-907D899764A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB3BDA4-DD75-4388-B4EC-13303922A9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB3BDA4-DD75-4388-B4EC-13303922A9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB3BDA4-DD75-4388-B4EC-13303922A9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB3BDA4-DD75-4388-B4EC-13303922A9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MojoCoffeeCardLibrary
+{
+    public abstract class AccountBase
+    {
+        public abstract int OrganisationalId { get; set; }
+    }
+}
